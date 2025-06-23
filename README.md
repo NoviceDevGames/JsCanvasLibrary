@@ -1,3 +1,2 @@
 # JsCanvasLibrary
-
-the development of this library has been postpone for now .
+Development of this library is currently on hold.
